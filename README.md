@@ -1,6 +1,6 @@
 # Hi, I'm PengPengQ👋
 
-I'm a web software engineer👨‍💻 from Chengdu, China🇨🇳. I currently enjoy my last college days🎓.
+I'm a web software engineer👨‍💻 from Chengdu, China🇨🇳. I currently Wroking in the JD🎓.
 
 Writing an excellent open source project👨‍💻 is my goal💪. So, I improve my skills everyday🎉. Besides, I write articles📖 on [Juejin](https://juejin.cn/user/105967315590295/posts).
 If my articles📖 useful to you or you are interested in me, welcome to follow🌟 me.
