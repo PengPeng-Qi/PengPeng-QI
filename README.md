@@ -6,6 +6,5 @@ Writing an excellent open source project👨‍💻 is my goal💪. So, I improv
 If my articles📖 useful to you or you are interested in me, welcome to follow🌟 me.
 
 <div>
-<img src='https://visitor-badge.glitch.me/badge?page_id=pengpeng-qi&left_color=black&right_color=green' />
 <a href='mailto:pengpengq@outlook.com'><img src='https://img.shields.io/badge/-pengpengq@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pengpengq@outlook.com' /></a>
 </div>
